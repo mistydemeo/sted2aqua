@@ -1,0 +1,57 @@
+file.o : \
+ /usr/include/stdlib.h /usr/include/machine/ansi.h \
+  /usr/include/ppc/ansi.h /usr/include/machine/types.h \
+  /usr/include/ppc/types.h /usr/include/sys/cdefs.h /usr/include/stdio.h \
+  /usr/include/sys/types.h /usr/include/sys/appleapiopts.h \
+  /usr/include/machine/endian.h /usr/include/ppc/endian.h \
+  /usr/include/string.h ../sted2/sub/iocslib.h ../sted2/sub/doslib.h \
+  sted.h ../config.h /usr/include/stddef.h /usr/include/errno.h \
+  /usr/include/sys/errno.h /usr/include/math.h \
+  /usr/include/architecture/ppc/math.h /usr/include/ctype.h \
+  /usr/include/runetype.h /usr/include/sys/stat.h /usr/include/sys/time.h \
+  /usr/include/time.h /usr/include/gcc/darwin/3.1/machine/limits.h \
+  /usr/include/ppc/limits.h /usr/include/fcntl.h /usr/include/sys/fcntl.h \
+  /usr/include/unistd.h /usr/include/sys/wait.h /usr/include/dirent.h \
+  /usr/include/sys/dirent.h version.h ../sted2/sub/graph.h rcddef.h \
+  sub/x68funcs.h sub/midi_in.h ../sted2/sayleen/rcpconv.h 
+file.o :
+/usr/include/stdlib.h :
+/usr/include/machine/ansi.h :
+/usr/include/ppc/ansi.h :
+/usr/include/machine/types.h :
+/usr/include/ppc/types.h :
+/usr/include/sys/cdefs.h :
+/usr/include/stdio.h :
+/usr/include/sys/types.h :
+/usr/include/sys/appleapiopts.h :
+/usr/include/machine/endian.h :
+/usr/include/ppc/endian.h :
+/usr/include/string.h :
+../sted2/sub/iocslib.h :
+../sted2/sub/doslib.h :
+sted.h :
+../config.h :
+/usr/include/stddef.h :
+/usr/include/errno.h :
+/usr/include/sys/errno.h :
+/usr/include/math.h :
+/usr/include/architecture/ppc/math.h :
+/usr/include/ctype.h :
+/usr/include/runetype.h :
+/usr/include/sys/stat.h :
+/usr/include/sys/time.h :
+/usr/include/time.h :
+/usr/include/gcc/darwin/3.1/machine/limits.h :
+/usr/include/ppc/limits.h :
+/usr/include/fcntl.h :
+/usr/include/sys/fcntl.h :
+/usr/include/unistd.h :
+/usr/include/sys/wait.h :
+/usr/include/dirent.h :
+/usr/include/sys/dirent.h :
+version.h :
+../sted2/sub/graph.h :
+rcddef.h :
+sub/x68funcs.h :
+sub/midi_in.h :
+../sted2/sayleen/rcpconv.h :

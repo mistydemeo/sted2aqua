@@ -1,0 +1,11 @@
+STed for Aqua
+=============
+
+  This is an experimental Cocoa/Mac OS X port of a MIDI sequencer "STed2".
+The present version is barely functioinal; in particular, MIDI support is 
+far from being useful. Any suggestions or patches are welcome.
+  The files I have created (those in the "aqua" directories) are distributed 
+with GPL2.
+  For the original STed2 and its X Window version, see the "README" file.
+
+  June 1, 2003. Toshi Nagata <alchemist_n@nifty.com>

@@ -1,0 +1,29 @@
+curses.o : \
+ ../../config.h /usr/include/ncurses.h /usr/include/ncurses_dll.h \
+  /usr/include/stdio.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/sys/cdefs.h \
+  /usr/include/machine/types.h /usr/include/ppc/types.h \
+  /usr/include/machine/ansi.h /usr/include/ppc/ansi.h \
+  /usr/include/machine/endian.h /usr/include/ppc/endian.h \
+  /usr/include/unctrl.h /usr/include/curses.h \
+  /usr/include/gcc/darwin/3.1/stdarg.h \
+  /usr/include/gcc/darwin/3.1/stdbool.h x68defines.h 
+curses.o :
+../../config.h :
+/usr/include/ncurses.h :
+/usr/include/ncurses_dll.h :
+/usr/include/stdio.h :
+/usr/include/sys/types.h :
+/usr/include/sys/appleapiopts.h :
+/usr/include/sys/cdefs.h :
+/usr/include/machine/types.h :
+/usr/include/ppc/types.h :
+/usr/include/machine/ansi.h :
+/usr/include/ppc/ansi.h :
+/usr/include/machine/endian.h :
+/usr/include/ppc/endian.h :
+/usr/include/unctrl.h :
+/usr/include/curses.h :
+/usr/include/gcc/darwin/3.1/stdarg.h :
+/usr/include/gcc/darwin/3.1/stdbool.h :
+x68defines.h :

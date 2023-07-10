@@ -1,0 +1,7 @@
+2003-06-22  Toshi Nagata <alchemist_n@nifty.com>
+    * Implement MIDI output using CoreMIDI.
+	* Implement customization of key assign.
+
+2003-06-01  Toshi Nagata <alchemist_n@nifty.com>
+    * First public release of Cocoa version.
+	* The files in the "aqua" directory were newly created.
